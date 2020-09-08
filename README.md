@@ -11,4 +11,4 @@ Public test
 
 [GOTO Ozim](https://kaspi.kz/pay/OzimScooter?service_id=3301&4607=123&amount=1)
 
-[GOTO TiensKZ](https://kaspi.kz/pay/TiensKZ?service_id=2892&3991=123&amount=15.32)
+[GOTO TiensKZ](https://kaspi.kz/pay/TiensKZ?service_id=2892&3991=123&amount=15)
